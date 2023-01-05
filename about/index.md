@@ -6,7 +6,7 @@ logo: 'assets/images/ghost.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+This is a pizza.
 
 We use this for testing and for reference!
 
