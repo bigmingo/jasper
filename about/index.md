@@ -6,8 +6,9 @@ logo: 'assets/images/ghost.png'
 current: about
 ---
 
-This is a pizza.
+Hello! My handle is Big Mingo and I am a full-time student pursuing a Bachelor's degree in Cybersecurity. 
 
-We use this for testing and for reference!
+This website will serve as a blog for me to share walkthroughs for CTF challenges, project documentation, and photography.
 
 If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+<h3 id="links"> <strong>Links</strong> </h3> <ul> <li><a href="https://github.com/limon768" target="_blank" rel="noopener">Resume</a>.</li> <li><a href="https://www.linkedin.com/in/austin-ingram-a185b1256/" target="_blank" rel="noopener">Linkedin</a>.</li> <li><a href="https://github.com/bigmingo" target="_blank" rel="noopener">Github</a>.</li> </ul>
